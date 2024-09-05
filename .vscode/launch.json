@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/a.potekhin/Desktop/lessons",
-      "program": "c:/Users/a.potekhin/Desktop/lessons/build/Debug/outDebug",
+      "cwd": "c:/Users/a.potekhin/Desktop/lessons/a1",
+      "program": "c:/Users/a.potekhin/Desktop/lessons/a1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
