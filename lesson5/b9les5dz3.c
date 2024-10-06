@@ -16,7 +16,6 @@ int main() {
 
         num /= 10;
     }
-
     if (is_even) {
         printf("YES\n");
     } else {
